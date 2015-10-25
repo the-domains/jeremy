@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jeremy]]></title>
         <description><![CDATA[Jeremy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jeremy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 19:51:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 25 Oct 2015 20:32:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeremy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello World</p>]]></description>
-            <link>undefined52460673-0b11-4a7a-abac-ebe8ae3c7d9d/index.html</link>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<article><h1>Hello World</h1><p>I think it goes a little like this:</p></article>]]></description>
+            <link>https://thegrid.ai/jeremy/52460673-0b11-4a7a-abac-ebe8ae3c7d9d/index.html</link>
             <guid isPermaLink="false">52460673-0b11-4a7a-abac-ebe8ae3c7d9d</guid>
-            <pubDate>Sun, 25 Oct 2015 19:51:37 GMT</pubDate>
+            <pubDate>Sun, 25 Oct 2015 20:31:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
