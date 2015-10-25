@@ -1,0 +1,23 @@
+name: Jeremy
+favicon: null
+layout_spectrum: 0.864259832073003
+typography_spectrum: 0.0006855747196823359
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.23038892773911357
+  lightness: 0.891856340225786
+  saturation: 0.6622670355718583
+  rhythmicContrast: 0.6342030074447393
+purpose: []
